@@ -1,0 +1,23 @@
+.zodiac-card {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  text-align: center;
+  align-items: center;
+  border: solid 8px #765f90;
+  box-shadow: 5px 5px 7px #897fb1;
+  color: rgb(53, 4, 79);
+  background-color: rgba(255, 255, 255, 0.838);
+  border-radius: 5%;
+}
+
+.zodiac-card img {
+  padding-top: 8px;
+  height: 200px;
+  margin-bottom: -55px;
+}
+
+.name {
+  font-size: 32px;
+  margin-bottom: -25px;
+}
