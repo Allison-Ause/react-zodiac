@@ -1,7 +1,7 @@
 import './Main.css';
 import ZodiacCard from '../ZodiacCard/ZodiacCard.js';
 import { zodiacSigns } from '../../data';
-import background from '../../background.jpg';
+import background from '../../background.jpeg';
 
 export default function Main() {
   return (
