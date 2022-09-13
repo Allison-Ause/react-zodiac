@@ -1,7 +1,7 @@
 .zodiac-card {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 35px;
   text-align: center;
   align-items: center;
   border: solid 8px #fcefcd;
